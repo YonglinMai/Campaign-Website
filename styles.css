@@ -1,0 +1,61 @@
+body{
+    background:#5d6470;
+}
+.title{
+    text-align:center;
+    background:#314668;
+    color:silver;
+    border:10px dotted black;
+}
+.main{
+    display:flex;
+    justify-content:center; 
+}
+.left{
+    width:50%;
+    border:10px dotted black;
+    padding-left:100px;
+    background:white;
+}
+.right{
+    width:50%;
+    background:#5c6572;
+    border:10px dotted black;
+    padding:60px;
+}
+.conclusion{   
+    display:flex;
+    justify-content:center;
+    margin:50px;
+}
+.one{
+    width:33.3333333333%;
+    border:10px dotted black;
+ 
+}
+.two{
+    width:33.3333333333%;
+    border:10px dotted black;
+}
+.three{
+    width:33.3333333333%;
+    border:10px dotted black;
+}
+img{
+    width:400px;
+    text-align:center;
+}
+p{
+    font-size:25px;
+}
+.money{
+    text-align:center;
+    font-size:100px;
+}
+button{
+    font-size:50px;
+    font-family: 'Lobster', cursive;
+}
+body{
+    font-family: 'Lobster', cursive;
+}
